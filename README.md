@@ -3,12 +3,6 @@
 This repository contains various algorithms implemented in JavaScript language. The goal of this repository is to help developers to understand the algorithms and its implementation in a clear and concise manner.
 
 ## Contents
-1. Sorting Algorithms
-    - Bubble Sort
-    - Selection Sort
-    - Insertion Sort
-    - Quick Sort
-    - Merge Sort
 1. Data Structures
    - Arrays
    - Linked List
@@ -19,11 +13,21 @@ This repository contains various algorithms implemented in JavaScript language. 
    - Trie
    - Graph
    - Heap
-3. Searching Algorithms
-Linear Search
-Binary Search
-4. Dynamic Programming
-5. Greedy Algorithms
+2. Algorithms
+   1. Sorting Algorithms
+       - Bubble Sort
+       - Selection Sort
+       - Insertion Sort
+       - Quick Sort
+       - Merge Sort
+   2. Searching Algorithms
+       - Linear Search
+       - Binary Search
+   3. Dynamic Programming
+   4. Backtracking
+   5. DFS/BFS
+   6. Graph Algorithms
+   7. Greedy Algorithms
 
 ## How to Contribute
 1. Fork the repository

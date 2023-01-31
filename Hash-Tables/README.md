@@ -1,4 +1,4 @@
-# HAsh Tables
+# Hash Tables
 
 Hash Table 은 Key-Value 쌍을 관리하는 자료구조입니다. Key는 유일해야 하고, Value는 Key에 대응하는 값입니다. Hash Table은 Key를 통해 O(1)의 시간 복잡도로 Value를 검색할 수 있게 합니다.
 
